@@ -1,0 +1,63 @@
+
+.container{
+    padding:0 50px;
+}
+
+.header{
+    margin-bottom: 20px;
+}
+
+.companent-conatainer{
+    border: 1px solid #adabab;
+    border-radius:5px;
+}
+
+.companent-title{
+    padding:5px 12px;
+    background-color:#d5d3d3;
+}
+.input-container{
+    display:flex;
+    justify-content:center;
+    padding:25px 35px;
+}
+
+.input-container input{
+    width:75%;
+    line-height:30px;
+    border-width: 1;
+}
+
+.input-container button{
+
+    background-color: blue;
+
+}
+ul {
+    margin: 0;
+    padding: 0;
+
+}
+ul li{
+    padding: 10px 6px 10px 10px;
+    background: #d5d3d3;
+    font-size: 18px;
+    list-style: none;
+}
+.Dawn-app{
+    border: 1px solid #adabab;
+    border-radius:5px;
+   
+}
+.text{
+padding: 10px;
+}
+.deleteSpan{
+    padding-right: 80%;
+}
+
+
+
+
+
+
